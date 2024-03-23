@@ -1,0 +1,6 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\young\OneDrive\Desktop\OpenGLProject\OpenGLProject\OpenGl dev libs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+  Generating Code...
+  ProiectPG.vcxproj -> A:\!!!!proiectfin\ProiectPG\x64\Debug\ProiectPG.exe
